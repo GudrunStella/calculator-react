@@ -7,9 +7,9 @@ body {
 }
 
 .calculator-container {
-  margin-top: 50px;
-  width: 428px;
-  height: 701px;
+  margin-top: 20px;
+  width: 330px;
+  height: 540px;
   background-color: #2A225F;
   display: block;
   align-items: center;
